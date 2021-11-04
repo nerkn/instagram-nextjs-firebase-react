@@ -2,6 +2,9 @@
 
 Single page app with login (google auth) and firebase storage (for images) and Firestore database (for posts/comments/likes). Code is not production ready and database is ameture. Sonny Sangha has been followed to gain better acquaintance with concurrent nextjs 12 tech. 
 
+<img src="public/responsive%20mobile.jpg" width="420" align="left">
+<img src="public/Create%20Next%20App.jpg"  width="420" align="right">
+<br clear=all />
 
 ## How to Install
 
